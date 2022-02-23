@@ -5,3 +5,7 @@
 </p>
 <h1 align="center">SCWD</h1>
 <h2 align="center">Welcome to the SCWD NIT Kurukshetra.</h2>
+
+## Who we are?
+
+We are group of students passionate about web development and open source.
