@@ -21,7 +21,6 @@ We are group of students passionate about web development and open source.
     <br />
     <sub><b>Abhishek Sharma</b></sub></a>
 <br />
-<sub><b>Backend Developer|Competitive Programmer|MERN Stack</b></sub></a>
 </td> <td align="center">
 <a href="https://github.com/ManishBalot">
     <img src="https://avatars.githubusercontent.com/u/54412022?v=4" width="100px;" alt="" />
@@ -35,7 +34,6 @@ We are group of students passionate about web development and open source.
     <br />
     <sub><b>Arpit Bhalla</b></sub></a>
 <br />
-<sub><b>GSoC'21 • Junior Maintainer 🐣 @react-native-elements</b></sub></a>
 </td> <td align="center">
 <a href="https://github.com/mehul-2000">
     <img src="https://avatars.githubusercontent.com/u/61342984?v=4" width="100px;" alt="" />
